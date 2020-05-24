@@ -30,9 +30,9 @@ npm run start
 
 ## Authors
 
--   ****Carlos Salazar****  -  Github: [Github Repository]([https://github.com/CarlosIUSalazar](https://github.com/CarlosIUSalazar))
+-   ****Carlos Salazar****  -  [Github Repository](https://github.com/CarlosIUSalazar)
 
--   ****Kohki Shiga****  -  Github: [Github Repository]([https://github.com/CarlosIUSalazar](https://github.com/CarlosIUSalazar))
+-   ****Kohki Shiga****  - [Github Repository](https://github.com/CarlosIUSalazar)
 
 See also the list of  [contributors](https://github.com/your/project/contributors)  who participated in this project.
 
