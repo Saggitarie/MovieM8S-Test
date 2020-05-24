@@ -1,7 +1,7 @@
 
 # Movie M8s
 
-
+![MovieM8s](./public/MovieM8SLogo.png)
 
 **A mobile-friendly app that lets you swipe left to dismiss a movie if you’re not interested in watching it, or right to save it in your “To Watch” list.**
 
@@ -23,9 +23,9 @@ npm run start
 
 ## [](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2#built-with)Built With
 
--   [React]([https://reactjs.org/](https://reactjs.org/))  - Frontend Javascript Framework
--   [SCSS]([https://sass-lang.com/](https://sass-lang.com/))  - CSS Extension Language
--   [AWS Amplify]([https://aws.amazon.com/amplify/](https://aws.amazon.com/amplify/))  - Development platform for building secure, scalable mobile and web applications
+-   [React](https://reactjs.org/)  - Frontend Javascript Framework
+-   [SCSS](https://sass-lang.com/)  - CSS Extension Language
+-   [AWS Amplify](https://aws.amazon.com/amplify/)  - Development platform for building secure, scalable mobile and web applications
 - [Firebase](https://firebase.google.com/) - NoSQL Database
 
 ## Authors
